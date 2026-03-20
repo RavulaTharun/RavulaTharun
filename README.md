@@ -74,7 +74,7 @@ Monitored throughput and latency with Grafana Cloud and optimized ANN recall for
 
 ## Professional Experience
 
-### SmartBeings Software Innovations (SmartersCP) — Data Scientist
+### Vzure Software Network Solutions — Data Scientist
 
 *Oct 2023 – Present*
 Delivered enterprise AI solutions with full-stack RAG pipelines, low-latency inference services, and high-availability cloud deployments.
@@ -82,7 +82,7 @@ Designed AWS/GCP-based model serving systems handling up to 2,000 requests/day w
 Instrumented CI/CD pipelines with Jenkins, Docker, and security scanning workflows that reduced incidents by 40%.
 Built semantic search and retrieval systems for regulated document workflows with strong relevance metrics.
 
-### SmartBeings — Data Analyst
+### Vzure Software Network Solutions — Data Analyst
 
 *Sep 2022 – Oct 2023*
 Developed ETL pipelines, dashboards, and automated reporting systems.
